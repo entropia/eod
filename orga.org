@@ -1,0 +1,142 @@
+* Arbeiten
+#+BEGIN: clocktable :scope file :maxlevel 2
+#+CAPTION: Clock summary at [2019-04-01 Mo 15:15]
+| Headline          | Time   |      |
+|-------------------+--------+------|
+| *Total time*      | *3:59* |      |
+|-------------------+--------+------|
+| Arbeiten          | 3:59   |      |
+| \_  Aufräumen     |        | 1:15 |
+| \_  Dokumentation |        | 0:59 |
+| \_  Orga          |        | 1:45 |
+#+END:
+
+
+** Aufräumen
+   :LOGBOOK:
+   CLOCK: [2019-04-01 Mo 09:00]--[2019-04-01 Mo 10:15] =>  0:00
+   :END:
+** Dokumentation
+   :LOGBOOK:
+   CLOCK: [2019-04-01 Mo 14:14]--[2019-04-01 Mo 15:13] =>  0:59
+   :END:
+- Mit der Dokumentation begonnen
+
+** Erziehen
+** Orga
+   :LOGBOOK:
+   CLOCK: [2019-04-01 Mo 11:00]--[2019-04-01 Mo 12:45] =>  0:00
+   :END:
+** Putzen
+** Materialpflege und -beschaffung
+* Dokumentationen 
+** Pflegetips
+*** Wann sollte ich putzen?
+Entropis können in der Regel so einigen Dreck ab und früher war mehr
+ Siff. Es empfiehlt sich aber, dennoch zu putzen, wenn:
+
+- Boden-, Arbeits- oder Sitzflächen zu kleben anfangen
+- Der Dreck zu zu leben anfängt
+- Insektenbefall auftritt
+- Es einfach eklig ist
+
+*** Wie sollte ich putzen?
+Grundsätzlich ist es eine individuelle Entscheidung, wie genau der
+Dreck zu beseitigen ist. Es empfiehlt sich jedoch, effizient und
+seiteneffektarm vorzugehen, insbesondere:
+
+- Es benötigt nur wenig Essigreiniger um den Boden der Küche, des
+  Technikraums oder des Gangs zu schrubben.
+- Eine erbsengroße Menge Spülmittel genügt für einen halben Stapel
+  Geschirr. Ist mehr zu spülen, ist es idr. einfacher, auf die
+  Spülmaschine zu warten.
+- Die vollständige Pyrolyse gilt zwar als effektiv, ist jedoch weder
+  kosteneffizient noch seiteneffektarm. Sie sollte nur im Notfall
+  angewandt werden.
+
+*** Reinigungsalgorithmen
+**** CMYF
+Ein entropifreundlicher Algorithmus ist clean most yucky first
+(CMYF). Dabei wird von einem drecksensiblen Durchschnittsentropi
+(z.B. Eves kleine Schwester) ausgegangen und jeweils das als nächstes
+gereinigt, was diesen am meisten anekeln würde. Ist dies geschafft,
+besteht der nächste Schritt darin, den Club Schritt für Schritt
+besonders annehmlich zu machen.
+
+**** GIO
+Ein besonders effizienter Algorithmus ist global impact optimization,
+hierzu wird zunächst die zur Verfügung stehende Zeit eingeschätzt und
+dann versucht, Aufgaben und Unteraufgaben so zu wählen, dass insgesamt
+(statt jeweils) das größtmögliche Maß an Ordnung für den Club
+innerhalb der verfügbaren Zeit hergestellt wird. Hierzu wird
+beispielsweise zunächst der Boden freigeräumt und die Stühle
+zurechtgerückt sowie die Mülleimerbeutel ausgetauscht, damit das
+anschließende Durchsaugen und Wegwerfen möglichst reibungsfrei
+verläuft. Steht dann noch Zeit zur Verfügung, kann die Küche geputzt
+werden usw.
+
+**** Randomwalk
+Ein Algorithmus für unklare Motvationslage ist randomwalk. Hierbei
+wird einfach zufällig durch den Raum gelaufen und jeweils
+aufgeräumt/geputzt/weggeworfen, was gerade in Griffweite kommt. Dies
+kann dazu beitragen, die Gedanken zu klären und Lust auf richtiges
+Putzen machen.
+
+*** Fragen
+**** Können wir nicht alle einfach selber darauf achten, dass der Club sauber bleibt?
+Hahahahahah --- nein. Echt nicht. Erfahrung aus über 8 Jahren.
+
+**** Kann ich zum Putzen auch Fantasiekostüme anziehen? Ein französisches Magdoutfit zum Beispiel....Also rein theorethisch....?
+Klar. Frage aber bitte bei vollständigem Nudismus die anwesenden
+Entropis ob das klar geht und hinterlass ggf. einen Hinweis für
+Neuankommende.
+
+**** Wie reinige ich....
+***** Eiweisflecken? (z.B. Pornosofa)
+Handschuhe tragen. Nach Trocknung (ggf. Föhn) vorsichtig abkratzen,
+danach mit Salzwasser einweichen. Abwischen.
+***** Fenster?
+Nur mit ausreichender Sicherung. Lisa leiht dir gerne einen
+Klettergurt und Seile. Anschließend mit
+Essigwasser/Spiritus/Glasreiniger und trockenen Tüchern.
+***** Kaugummi im Teppich?
+Eiswürfel oder Föhn um es zu verhärten, danach trocken abwischen.
+
+***** Mich selber?
+Der Schlüssel für die Duschen ist im Schlüsselschrank (314), Shampoo
+und Seife findest du beim Sanitätszeug, notfalls geht auch
+Spüli. Handücher liegen im Hauptraumreagal oder lassen sich durch
+Geschirrhandtücher austauschen, gebrauchte sind in die Schmutzwäsche
+(neben dem Putzschrank) zu werfen.
+***** Monitore?
+Am besten mit einem trockenen Taschentuch, bei gröberen Flecken mit
+einem alkoholischen Monitorreiniger, zur Not tut es auch Desi. Wichtig
+ist, dass das Reinigungsmittel nicht die Scheibe runterläuft, denn
+dahinter ist Elektronik und manchmal läuft das Reinigungsmittel auch
+zwischen Scheibe und TFT.
+***** Oberflächen?
+Alkoholischer Fensterreiniger ist ziemlich nützlich hierfür. Einfach
+aufsprühen und mit einem Geschirrtuch abwischen.
+
+***** Textilien?
+Bevor du zu Oxyclean oder ähnlichem greifst, solltest du zunächst
+trocken abwischen, danach ggf. Wasser & Spüli probieren. Hilft das
+alles nichts, mach vorher einen Verträglichkeitstest an unauffälliger
+Stelle.
+
+***** Zuckerwasser bzw. Mateflecken?
+Handschuhe tragen. Fleck in 2 Teilen (destiliertem) Wasser und 1 Teil
+Spiritus einweichen, mit feuchtem Tuch abwischen, auswaschen.
+
+**** Wo finde ich was?
+Das meiste interessante Zeug (Handschuhe, Handtücher, Mülltüten,
+Putzmittel, Staubsaugertüten....) ist im Putzmittelschrank, gleich
+links vom Hauptraumtisch aus gesehen. Der Schmutzwäschesack steht
+daneben. Der Staubsauger ist für gewöhnlich im Optionsraum, der
+Kärcher für den Lötkoller ist idr. in diesem und der Putzeimer
+auch. Der Mob ist manchmal wütend und muss dann aus seinem Demoschild
+befreit werden, um benutzbar zu sein.
+
+
+**** Wohin kommt der Müll?
+Zu klären....
