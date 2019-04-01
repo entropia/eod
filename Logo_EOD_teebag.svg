@@ -556,7 +556,7 @@
      inkscape:window-x="0"
      inkscape:window-y="18"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g4809" />
+     inkscape:current-layer="svg4" />
   <path
      style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ea5b0c;fill-opacity:1;stroke:none;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
      d="m 121.47276,0 -66.891609,83.290905 -1.3616,380.372465 55.795109,0.19962 0.0176,0.0723 148.83807,2.31677 c 43.1682,-0.46407 86.33642,-0.92821 129.50463,-1.3923 l 0.77665,-217.09262 c -11.0878,35.61332 -23.16374,57.76961 -27.35741,64.9017 l 15.3999,10.27515 0.42812,2.59533 -11.53431,-7.72982 -2.79705,4.14703 15.46442,10.33565 0.82484,5.00318 -18.33143,-12.28424 -2.79505,4.17831 22.2283,14.89204 0.82484,5.00316 -25.09531,-16.84063 -2.79701,4.17832 29.0254,19.44646 -5e-5,0.0311 -61.61194,92.37404 -12.34726,-8.23105 22.49676,-33.8582 -18.39387,-12.25294 26.51867,-39.90482 -17.77049,-11.84526 -26.51869,39.87356 -19.82639,-13.195 -22.49675,33.85627 -10.29725,-6.87548 -0.9568,-4.08311 60.05353,-89.99178 0.12491,-0.0313 31.05004,20.80011 2.79705,-4.14707 -27.74727,-18.59997 4.50454,-1.45131 25.28488,16.96544 2.79507,-4.14706 -22.00941,-14.73402 4.50456,-1.45329 19.54699,13.10149 2.79704,-4.14705 -16.27353,-10.90133 2.31379,-0.74232 19.79707,13.19698 c 5.8554,-9.94987 26.60952,-48.53139 38.37454,-113.02104 l 0.3851,-107.967045 -77.79447,-83.810653 -24.96884,-0.08878 -0.0175,0.111337 -103.93747,0.09385 c 0.11151,-0.191656 0.21684,-0.386368 0.33151,-0.576474 z m 109.86949,352.89896 0.26172,4.1e-4 -0.10294,0.67586 z m 62.54995,29.32439 17.77436,11.84138 -4.15646,6.25571 -17.78023,-11.8394 z m -42.51634,20.86849 3.05457,2.0109 -1.79056,2.68131 -3.05454,-2.01091 z m 7.20159,4.77474 2.36861,1.57209 -1.79054,2.6813 -2.36861,-1.57208 z m 6.51564,4.33592 2.36862,1.57209 -1.79057,2.68129 -2.36861,-1.5721 z m 6.54689,4.33588 2.37056,1.57208 -1.82375,2.67939 -2.36861,-1.57014 z m 6.51563,4.33593 2.3393,1.5721 -1.79249,2.67934 -2.33735,-1.57015 z m 6.54689,4.33587 2.33932,1.57211 -1.79056,2.67934 -2.37056,-1.57011 z m 6.51563,4.33591 2.33932,1.57211 -1.79055,2.67936 -2.37056,-1.57011 z m 6.51563,4.33592 2.37058,1.57207 -1.79056,2.67937 -2.37056,-1.57012 z m 6.51756,4.30466 3.21093,2.13578 -1.79055,2.68131 -3.21287,-2.13577 z"
@@ -572,20 +572,6 @@
      y="249.36153"
      ry="35.115898"
      transform="matrix(0.59530255,-0.20141721,1.1812698,0.64384728,-539.03214,159.76472)" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'A Charming Font Superexpanded';-inkscape-font-specification:'A Charming Font Superexpanded';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-     x="150.4575"
-     y="353.80856"
-     id="text1130"
-     transform="rotate(2.2212596)"
-     inkscape:transform-center-x="34.103431"
-     inkscape:transform-center-y="-0.025172839"><tspan
-       sodipodi:role="line"
-       id="tspan1128"
-       x="150.4575"
-       y="353.80856"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;font-family:Impact;-inkscape-font-specification:Impact;stroke:#000000;stroke-opacity:1">EOD</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'A Charming Font Superexpanded';-inkscape-font-specification:'A Charming Font Superexpanded';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -804,4 +790,15 @@
        style="stroke-width:0.29248601"
        inkscape:connector-curvature="0" />
   </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'A Charming Font Superexpanded';-inkscape-font-specification:'A Charming Font Superexpanded';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="133.0247"
+     y="361.65146"
+     id="text4813"><tspan
+       sodipodi:role="line"
+       id="tspan4811"
+       x="133.0247"
+       y="361.65146"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;font-family:Impact;-inkscape-font-specification:Impact">EOD</tspan></text>
 </svg>
