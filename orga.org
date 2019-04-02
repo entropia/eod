@@ -1,14 +1,15 @@
 * Arbeiten
 #+BEGIN: clocktable :scope file :maxlevel 2
-#+CAPTION: Clock summary at [2019-04-01 Mo 15:15]
+#+CAPTION: Clock summary at [2019-04-02 Di 15:57]
 | Headline          | Time   |      |
 |-------------------+--------+------|
-| *Total time*      | *3:59* |      |
+| *Total time*      | *5:20* |      |
 |-------------------+--------+------|
-| Arbeiten          | 3:59   |      |
+| Arbeiten          | 5:20   |      |
 | \_  Aufräumen     |        | 1:15 |
 | \_  Dokumentation |        | 0:59 |
 | \_  Orga          |        | 1:45 |
+| \_  Putzen        |        | 1:21 |
 #+END:
 
 
@@ -28,6 +29,9 @@
    CLOCK: [2019-04-01 Mo 11:00]--[2019-04-01 Mo 12:45] =>  0:00
    :END:
 ** Putzen
+   :LOGBOOK:
+   CLOCK: [2019-04-02 Di 14:35]--[2019-04-02 Di 15:56] =>  0:00
+   :END:
 ** Materialpflege und -beschaffung
 * Dokumentationen 
 ** Pflegetips
